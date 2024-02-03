@@ -1,0 +1,9 @@
+{
+	"name": "mona125ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44aeb23a-74a0-4281-ace2-47d3588809c4",
+		"tenantId": "b8cb205e-df60-4c79-ab0c-c8d29fac7943"
+	}
+}
