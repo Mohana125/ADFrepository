@@ -238,7 +238,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "FlightDelayData.csv",
+						"fileName": "certificate.pdf",
 						"container": "srccon"
 					},
 					"columnDelimiter": ",",
