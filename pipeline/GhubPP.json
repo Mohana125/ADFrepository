@@ -1,0 +1,17 @@
+{
+	"name": "GhubPP",
+	"properties": {
+		"activities": [
+			{
+				"name": "Waitghub",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
